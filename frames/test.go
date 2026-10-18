@@ -1,7 +1,16 @@
 package frames
 
 var Test = DefaultFrameType([]string{
-	`Frame 1`,
-	`Frame 2`,
-	`Frame 3`,
+	`Fl3p has told you to STFU.`,
+	`Fl3p has told you to STFU.`,
+	`Fl3p has told you to STFU.`,
+	`Fl3p has told you to STFU.`,
+	`Fl3p has told you to STFU..`,
+	`Fl3p has told you to STFU..`,
+	`Fl3p has told you to STFU..`,
+	`Fl3p has told you to STFU..`,
+	`Fl3p has told you to STFU...`,
+	`Fl3p has told you to STFU...`,
+	`Fl3p has told you to STFU...`,
+	`Fl3p has told you to STFU...`,
 })
